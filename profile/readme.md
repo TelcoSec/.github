@@ -25,8 +25,13 @@ Circuit Switch and Packet Switch
 ### Hack The Box
 | Logo | Tech Name |
 | --- | --- |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="Learn SS7" width="150" height="150"></a> | [Learn SS7)](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="Learn SS7" width="150" height="150"></a> | [Learn SS7](https://github.com/Certs-Study/CPTS-Certification) |
 | <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CBBH.png" alt="Learn SigTran" width="150" height="150"></a> | [Learn SigTran](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
 | <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
 
 
