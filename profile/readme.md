@@ -35,8 +35,6 @@ Circuit Switch and Packet Switch
 
 
 
-
-
 ## Authors
 
 - [@rfs85](https://www.github.com/rfs85)
