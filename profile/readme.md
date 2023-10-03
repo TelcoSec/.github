@@ -13,32 +13,22 @@ A brief description of what this project does and who it's for
 
 
 ## 🛠 Skills
-Linux Attacks, Windows Attacks, Citrix Attacks, Active Directory Attacks, Red Team, Telecom Security
-
+Circuit Switch and Packet Switch
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Security Certification
+## Learn telecom
 
 ### Hack The Box
-| Logo | Certification Name |
+| Logo | Tech Name |
 | --- | --- |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="HTB Certified Penetration Testing Specialist (HTB CPTS)" width="150" height="150"></a> | [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://github.com/Certs-Study/CPTS-Certification) |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CBBH.png" alt="HTB Certified Bug Bounty Hunter (HTB CBBH)" width="150" height="150"></a> | [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://github.com/Certs-Study/CPTS-Certification) |
-| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="HTB Certified Defensive Security Analyst (HTB CDSA)" width="150" height="150"></a> | [HTB Certified Defensive Security Analyst (HTB CDSA)](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="Learn SS7" width="150" height="150"></a> | [Learn SS7)](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CBBH.png" alt="Learn SigTran" width="150" height="150"></a> | [Learn SigTran](https://github.com/Certs-Study/CPTS-Certification) |
+| <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CDSA.png" alt="Learn Diameter" width="150" height="150"></a> | [Learn Diameter](https://github.com/Certs-Study/CPTS-Certification) |
 
-
-### AlteredSecurity
-
-| Logo | Certification Name |
-| --- | --- |
-| <a href="https://github.com/Certs-Study/CRTP-Red-Team-Professional"><img src="/images/logos/CRTP.webp" alt="Certified Red Team Professional (CRTP)" width="150" height="150"></a> | [Certified Red Team Professional (CRTP)](https://github.com/Certs-Study/CRTP-Red-Team-Professional) |
-| <a href="https://github.com/Certs-Study/CRTE-Red-Team-Expert"><img src="/images/logos/CRTE.webp" alt="Certified Red Team Expert (CRTE)" width="150" height="150"></a> | [Certified Red Team Expert (CRTE)](https://github.com/Certs-Study/CRTE-Red-Team-Expert)|
-| <a href="https://github.com/Certs-Study/CRTE-Red-Team-Master"><img src="/images/logos/CRTM.webp" alt="Certified Red Team Master (CRTM)" width="150" height="150"></a> | [Certified Red Team Master (CRTM)](https://github.com/Certs-Study/CRTE-Red-Team-Master) |
-| <a href="https://github.com/Certs-Study/Certified-Enterprise-Security-Professional"><img src="/images/logos/CESP.webp" alt="Certified Enterprise Security Professional – AD CS (CESP – ADCS)" width="150" height="150"></a> | [Certified Enterprise Security Professional – AD CS (CESP – ADCS)](https://github.com/Certs-Study/Certified-Enterprise-Security-Professional)|
 
 
 
