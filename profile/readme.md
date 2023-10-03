@@ -2,7 +2,7 @@
 ![Logo](./images/cover.png)
 
 
-# Certifications Study
+# Telco Sec
 
 A brief description of what this project does and who it's for
 
@@ -22,7 +22,6 @@ Circuit Switch and Packet Switch
 
 ## Learn telecom
 
-### Hack The Box
 | Logo | Tech Name |
 | --- | --- |
 | <a href="https://github.com/Certs-Study/CPTS-Certification"><img src="/images/logos/CPTS.png" alt="Learn SS7" width="150" height="150"></a> | [Learn SS7](https://github.com/Certs-Study/CPTS-Certification) |
