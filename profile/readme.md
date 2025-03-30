@@ -17,8 +17,19 @@ Telco-sec.com is an open community dedicated to researching and sharing knowledg
 Project Structure
 This repository contains research materials, methodologies, and tools for security analysis of telecommunications technologies across all layers:
 
-
-
+## Topics
+[sim-esim-research.md](sim-esim-research.md) - SIM/eSIM security research
+[02-basebands/README.md](02-basebands/README.md) - Baseband security research
+[03-mobile-internals/README.md](03-mobile-internals/README.md) - Mobile internals security research
+[04-ran/README.md](04-ran/README.md) - Radio Access Network security research
+[05-core-network/README.md](05-core-network/README.md) - Core network security research
+[06-technologies/README.md](06-technologies/README.md) - Technology-specific (2G/3G/4G/5G) research
+[07-plmn-integration/README.md](07-plmn-integration/README.md) - PLMN integration security research
+[tools/linux/README.md](tools/linux/README.md) - Linux-specific tools
+[tools/online/README.md](tools/online/README.md) - Online platform tools and resources
+[tools/common/README.md](tools/common/README.md) - Cross-platform common tools
+[methodology/README.md](methodology/README.md) - Research methodology framework
+[methodology/CONTRIBUTING.md](methodology/CONTRIBUTING.md) - Contribution guidelines
 
 
 
