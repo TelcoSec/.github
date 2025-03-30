@@ -51,6 +51,13 @@ Our mission is to enhance the security landscape of telecommunications through:
 
 ## 📚 Documentation & Resources
 
+### Official Platforms
+- [TelcoSec Knowledge Center](https://www.telco-sec.com/) - Comprehensive telecommunications security resources and learning paths
+- [3GPP Explainer](https://3gpp.telco-sec.com/) - Detailed guide to 3GPP standards and mobile network technologies
+- [SIM/eSIM Guide](https://sim-cards.telco-sec.com/) - Technical details of SIM cards, eSIMs, and mobile connectivity
+- [Security Documentation](https://docs.telco-sec.com/) - Comprehensive security guidelines and best practices
+- [TelcoSec Chat](https://chat.telco-sec.com/) - Interactive assistance for telecom security queries
+
 ### Research Documentation
 - [SIM/eSIM Security Research](docs/sim-esim-research.md)
 - [Baseband Security Research](docs/baseband-research.md)
