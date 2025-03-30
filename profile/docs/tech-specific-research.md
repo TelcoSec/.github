@@ -364,10 +364,6 @@ This section focuses on security aspects specific to each generation of mobile n
 
 ## Community Resources
 
-- [TelcoSec Research Forum](https://forum.telco-sec.com)
-- [5G Security Working Group](https://5g-security.org)
-- [Mobile Security Research Group](https://mobile-security.org)
-- [Cellular Security Wiki](https://cellularsecurity.io)
 
 ## Contribution Guidelines
 
