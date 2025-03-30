@@ -1,4 +1,4 @@
-# 🔐 Telco-Sec
+# 🔐 Telecom Security Research Project
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/banner.png" alt="Telco-Sec Banner" width="800"/>
@@ -13,7 +13,15 @@
 
 ## 📡 About Us
 
-Telco-Sec is an open community focused on researching and sharing knowledge about telecom security. Founded in 2020 by a telecom professional with experience dating back to 1995, we're dedicated to dissecting telecom technologies to better understand their security boundaries.
+Telco-sec.com is an open community dedicated to researching and sharing knowledge about telecom security. Founded in 2020 by RFS, a telecom professional since 2010 who has been testing telecom security boundaries since 1995.
+Project Structure
+This repository contains research materials, methodologies, and tools for security analysis of telecommunications technologies across all layers:
+
+
+
+
+
+
 
 <table>
   <tr>
@@ -60,16 +68,15 @@ Telco-Sec is an open community focused on researching and sharing knowledge abou
 
 ## 📚 Research Publications
 
-Our community regularly publishes research on telecom security topics. Recent publications include:
-
-* **[Security Evolution from 2G to 5G: What's Improved and What Hasn't](https://github.com/TelcoSec/research/2g-to-5g-security-evolution.pdf)**
-* **[Practical Attacks Against Modern Telecom Networks](https://github.com/TelcoSec/research/modern-telecom-attacks.pdf)**
-* **[Subscriber Identity Protection: Past, Present and Future](https://github.com/TelcoSec/research/subscriber-identity-protection.pdf)**
-* **[Roaming Security: The Forgotten Vulnerability](https://github.com/TelcoSec/research/roaming-security-vulnerabilities.pdf)**
-* **[Testing Telecom Security Boundaries: Lessons from 25+ Years in the Field](https://github.com/TelcoSec/research/telecom-security-boundaries-lessons.pdf)**
-
-Check our [Research Repository](https://github.com/TelcoSec/research) for complete access to our publications, whitepapers, and security advisories.
-
+### Mobile
+- SIM / eSIM Cards
+- Basebands
+- Mobile Internals
+- Radio Access Network (RAN)
+- Core Networks
+- Technology-specific research (2G/3G/4G/5G)
+- PLMN Integration
+ 
 ## 🎓 Community Learning
 
 <div align="center">
