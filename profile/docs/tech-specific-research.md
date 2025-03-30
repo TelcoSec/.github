@@ -4,6 +4,81 @@
 
 This section focuses on security aspects specific to each generation of mobile network technology (2G, 3G, 4G, and 5G), examining their unique architectures, protocols, and vulnerability landscapes.
 
+## Research Tools & Equipment
+
+### Radio Equipment
+- [USRP B210](https://www.ettus.com/all-products/ub210-kit/) - Software Defined Radio for 2G-5G
+- [BladeRF 2.0](https://www.nuand.com/bladerf-2-0-micro/) - SDR for cellular protocol analysis
+- [LimeSDR](https://limemicro.com/products/boards/limesdr/) - Wide-band SDR platform
+- [RTL-SDR](https://www.rtl-sdr.com/) - Low-cost SDR for initial research
+
+### Software Frameworks
+- [srsRAN](https://www.srslte.com/) - Open-source 4G/5G implementation
+- [OpenAirInterface](https://openairinterface.org/) - 4G/5G software implementation
+- [Osmocom](https://osmocom.org/) - Open source mobile communications
+- [YateBTS](https://yatebts.com/) - GSM/GPRS stack implementation
+
+### Protocol Analysis
+- [Wireshark](https://www.wireshark.org/) with cellular protocol plugins
+- [SCAT](https://github.com/fgsect/scat) - Signaling Collection and Analysis Tool
+- [SIGTRAN](https://github.com/P1sec/SIGTRAN) - SS7/Diameter testing
+- [Diameter EPC Testing Tools](https://github.com/herlesupreeth/epc_testing)
+
+## Research Papers & Publications
+
+### 2G/3G Security
+1. ["Practical Attacks Against GSM Networks"](https://www.blackhat.com/presentations/bh-usa-08/Nohl/BH_US_08_Nohl_A5_Cracking.pdf) - BlackHat USA 2008
+2. ["Breaking UMTS Phone Privacy"](https://ieeexplore.ieee.org/document/6234422) - IEEE S&P 2012
+3. ["Lucky13: Breaking the TLS and DTLS Record Protocols"](https://www.ieee-security.org/TC/SP2013/papers/4977a526.pdf) - IEEE S&P 2013
+
+### 4G Security
+1. ["Breaking LTE on Layer Two"](https://alter-attack.net/media/breaking_lte_on_layer_two.pdf) - IEEE S&P 2019
+2. ["New Privacy Threat on 3G, 4G, and Upcoming 5G AKA Protocols"](https://eprint.iacr.org/2018/1175.pdf) - IACR 2018
+3. ["LTEInspector: A Systematic Approach for Adversarial Testing of 4G LTE"](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-3_Hussain_paper.pdf) - NDSS 2018
+
+### 5G Security
+1. ["5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol"](https://acmccs.github.io/papers/p316-kimA.pdf) - CCS 2019
+2. ["A Formal Analysis of 5G Authentication"](https://arxiv.org/pdf/1806.10360.pdf) - ACM CCS 2018
+3. ["5G NR Jamming, Spoofing, and Sniffing"](https://arxiv.org/pdf/1911.03538.pdf) - IEEE S&P 2020
+
+## Educational Videos & Presentations
+
+### Conference Talks
+1. ["Breaking 4G LTE Networks"](https://www.youtube.com/watch?v=fQSu9cBaojc) - BlackHat USA 2018
+2. ["5G Security: Preparing for the Next Generation"](https://www.youtube.com/watch?v=vJLxG8EXU4s) - DEF CON 27
+3. ["GSM: GOTTA SNIFF MORE"](https://www.youtube.com/watch?v=fQSu9cBaojc) - DEF CON 21
+
+### Tutorial Series
+1. ["Introduction to Software Defined Radio"](https://www.youtube.com/watch?v=xQVm-YTKR9s) - HackRF Tutorial
+2. ["Building a 4G LTE Network with srsRAN"](https://www.youtube.com/watch?v=candvp-5VBE) - srsRAN Tutorial
+3. ["5G Security Testing with Open5GCore"](https://www.youtube.com/watch?v=YB3QwgZJ67c) - Open5GCore Tutorial
+
+## Research Roadmap 2024
+
+### Q1 2024: Legacy Network Security
+- Complete 2G/3G vulnerability assessment framework
+- Develop automated SS7/SIGTRAN testing tools
+- Release GSM security testing methodology
+- Publish findings on legacy network attacks
+
+### Q2 2024: 4G LTE Deep Dive
+- Implement LTE protocol fuzzing framework
+- Research VoLTE security implications
+- Develop Diameter security testing suite
+- Document new LTE vulnerability findings
+
+### Q3 2024: 5G Security Analysis
+- Build 5G NR security testing environment
+- Research network slicing security
+- Analyze 5G core service-based architecture
+- Develop 5G security assessment tools
+
+### Q4 2024: Cross-Technology Security
+- Research inter-RAT security mechanisms
+- Develop cross-protocol testing framework
+- Document technology transition risks
+- Release comprehensive testing suite
+
 ## 2G (GSM) Security Research
 
 ### Architecture Security
@@ -273,3 +348,31 @@ This section focuses on security aspects specific to each generation of mobile n
   - Legacy compatibility issues
 
 ### [Cross-Technology Security Analysis](cross-technology/README.md)
+
+## Standards & Specifications
+
+### 3GPP Security Standards
+- [TS 33.401](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=2296) - 3GPP Security Architecture
+- [TS 33.501](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3169) - 5G Security Architecture
+- [TS 33.102](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=2262) - 3G Security Architecture
+- [TS 43.020](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=2730) - GSM Security Architecture
+
+### Security Guidelines
+- [GSMA FS.11](https://www.gsma.com/security/resources/fs-11-network-equipment-security-assurance-scheme/) - Network Security Assurance
+- [NIST SP 800-187](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf) - Guide to LTE Security
+- [ENISA 5G Security Guidelines](https://www.enisa.europa.eu/topics/critical-information-infrastructures-and-services/5g/5g-cybersecurity-standards)
+
+## Community Resources
+
+- [TelcoSec Research Forum](https://forum.telco-sec.com)
+- [5G Security Working Group](https://5g-security.org)
+- [Mobile Security Research Group](https://mobile-security.org)
+- [Cellular Security Wiki](https://cellularsecurity.io)
+
+## Contribution Guidelines
+
+Please refer to our [Contributing Guide](../contributing.md) for information on:
+- Setting up your research environment
+- Submitting research findings
+- Documentation standards
+- Code of conduct
