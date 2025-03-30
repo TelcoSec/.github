@@ -43,45 +43,6 @@ Telco-Sec is an open community focused on researching and sharing knowledge abou
 
 ## 🛠️ Our Projects
 
-### ⚙️ Analysis Tools
-<div align="center">
-  <a href="https://github.com/TelcoSec/SS7Map">
-    <img src="https://img.shields.io/badge/SS7Map-Signaling%20Analysis-blue?style=flat-square" height="25"/>
-  </a>
-  <a href="https://github.com/TelcoSec/DiameterExplorer">
-    <img src="https://img.shields.io/badge/DiameterExplorer-Protocol%20Research-green?style=flat-square" height="25"/>
-  </a>
-  <a href="https://github.com/TelcoSec/SIPScanner">
-    <img src="https://img.shields.io/badge/SIPScanner-VoIP%20Assessment-orange?style=flat-square" height="25"/>
-  </a>
-  <a href="https://github.com/TelcoSec/IMSIcatcher">
-    <img src="https://img.shields.io/badge/IMSIcatcher-Detection%20Tools-red?style=flat-square" height="25"/>
-  </a>
-  <a href="https://github.com/TelcoSec/RanAudit">
-    <img src="https://img.shields.io/badge/RanAudit-Radio%20Analysis-purple?style=flat-square" height="25"/>
-  </a>
-</div>
-
-* **[SS7Map](https://github.com/TelcoSec/SS7Map)**: Tool for mapping and visualizing SS7 network vulnerabilities and attack vectors
-* **[DiameterExplorer](https://github.com/TelcoSec/DiameterExplorer)**: Research toolkit for analyzing Diameter protocol implementations and security flaws
-* **[SIPScanner](https://github.com/TelcoSec/SIPScanner)**: Open-source scanner for identifying vulnerable SIP configurations and implementations
-* **[IMSIcatcher](https://github.com/TelcoSec/IMSIcatcher)**: Detection and analysis tools for identifying unauthorized IMSI catchers
-* **[RanAudit](https://github.com/TelcoSec/RanAudit)**: Radio Access Network security assessment framework
-
-### 🔒 Documentation & Frameworks
-* **[GSM-Security-Compendium](https://github.com/TelcoSec/GSM-Security-Compendium)**: Comprehensive analysis of 2G/GSM security vulnerabilities with historical context
-* **[UMTS-Security-Analysis](https://github.com/TelcoSec/UMTS-Security-Analysis)**: Deep dive into 3G/UMTS security architecture, improvements, and remaining flaws
-* **[LTE-Security-Research](https://github.com/TelcoSec/LTE-Security-Research)**: Research documents on 4G/LTE security improvements and persisting vulnerabilities
-* **[5G-Security-Overview](https://github.com/TelcoSec/5G-Security-Overview)**: Analysis of 5G security architecture, new features, and potential risk areas
-* **[Telecom-Red-Team-Framework](https://github.com/TelcoSec/Telecom-Red-Team-Framework)**: Methodology for conducting red team assessments against telecom infrastructure
-
-### 📊 Educational Resources
-* **[Telecom-Security-Fundamentals](https://github.com/TelcoSec/Telecom-Security-Fundamentals)**: Educational resources for newcomers to telecom security concepts
-* **[Signaling-Attack-Vectors](https://github.com/TelcoSec/Signaling-Attack-Vectors)**: Categorized documentation of known attack vectors across telecom signaling protocols
-* **[Protocol-Security-Comparison](https://github.com/TelcoSec/Protocol-Security-Comparison)**: Side-by-side security comparison of telecom protocols across generations
-* **[Telecom-Security-Lab](https://github.com/TelcoSec/Telecom-Security-Lab)**: Guide to building your own telecom security testing environment
-* **[Roaming-Security-Analysis](https://github.com/TelcoSec/Roaming-Security-Analysis)**: Research on security implications of international roaming implementations
-
 ## 📋 Current Research Focus
 
 <table>
