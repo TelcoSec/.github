@@ -1,7 +1,7 @@
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/banner.png" alt="TelcoSec Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/LEA.png" alt="TelcoSec Banner" width="800"/>
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
