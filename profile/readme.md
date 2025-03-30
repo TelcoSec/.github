@@ -121,33 +121,6 @@ Telco-Sec.com specializes in comprehensive security analysis and consulting for 
 * Anti-jamming techniques
 * Space segment security
 
-## Our Repositories
-
-Our GitHub organization hosts various repositories focused on telecom security:
-
-### Analysis Tools
-* **[SS7-Vulnerability-Scanner](https://github.com/telco-sec/ss7-vulnerability-scanner)**: Tool for identifying and testing SS7 network vulnerabilities
-* **[Diameter-Security-Toolkit](https://github.com/telco-sec/diameter-security-toolkit)**: Comprehensive toolkit for Diameter protocol security assessment
-* **[SIP-Security-Suite](https://github.com/telco-sec/sip-security-suite)**: Tools for SIP protocol security testing and hardening
-
-### Security Frameworks
-* **[5G-Security-Framework](https://github.com/telco-sec/5g-security-framework)**: Security architecture and implementation guides for 5G networks
-* **[Telecom-Zero-Trust](https://github.com/telco-sec/telecom-zero-trust)**: Zero Trust implementation for telecommunications environments
-* **[NFV-Security-Blueprint](https://github.com/telco-sec/nfv-security-blueprint)**: Security blueprint for Network Function Virtualization deployments
-
-### Documentation and Research
-* **[Telecom-Security-Standards](https://github.com/telco-sec/telecom-security-standards)**: Compilation and analysis of telecom security standards
-* **[Telecom-Threat-Intelligence](https://github.com/telco-sec/telecom-threat-intelligence)**: Threat intelligence specific to telecommunications sector
-* **[Signaling-Security-Best-Practices](https://github.com/telco-sec/signaling-security-best-practices)**: Best practices for securing signaling networks
-
-## Research Publications
-
-Our team regularly publishes research on telecom security topics. Recent publications include:
-
-* **[Exploiting Vulnerabilities in 5G Network Slicing](https://telco-sec.com/research/5g-network-slicing-vulnerabilities.pdf)**
-* **[Security Implications of Open RAN Architectures](https://telco-sec.com/research/open-ran-security-implications.pdf)**
-* **[Quantum-Resistant Cryptography for Telecommunications](https://telco-sec.com/research/quantum-resistant-telecom.pdf)**
-* **[IoT Security in Cellular Networks: Challenges and Solutions](https://telco-sec.com/research/iot-cellular-security.pdf)**
 
 ## Contributing
 
