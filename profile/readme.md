@@ -5,10 +5,10 @@
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
-  [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://www.telco-sec.com)
+  [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://telco-sec.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-TelcoSec-171515?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/jkUKw2cBxX)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/showcase/telcosec)
-  [![GitHub followers](https://img.shields.io/github/followers/TelcoSec?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
 </div>
 
 ## 📋 Overview
@@ -78,11 +78,36 @@ For responsible disclosure of telecom system vulnerabilities, please follow our 
 ## 📬 Connect With Us
 
 <div align="center">
-  <a href="https://www.telco-sec.com">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>General Contact</strong>
+        <br/>
+        <a href="https://telco-sec.com">Website</a>
+        <br/>
+        <a href="mailto:contact@telco-sec.com">contact@telco-sec.com</a>
+      </td>
+      <td align="center">
+        <strong>Research Inquiries</strong>
+        <br/>
+        <a href="mailto:research@telco-sec.com">research@telco-sec.com</a>
+      </td>
+      <td align="center">
+        <strong>Security Reports</strong>
+        <br/>
+        <a href="mailto:security@telco-sec.com">security@telco-sec.com</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Social Media & Community
+<div align="center">
+  <a href="https://telco-sec.com">
     <img src="https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=firefox" height="30"/>
   </a>
-  <a href="mailto:research@telco-sec.com">
-    <img src="https://img.shields.io/badge/Email-research%40telco--sec.com-red?style=for-the-badge&logo=mail.ru" height="30"/>
+  <a href="https://github.com/TelcoSec">
+    <img src="https://img.shields.io/badge/GitHub-TelcoSec-171515?style=for-the-badge&logo=github" height="30"/>
   </a>
   <a href="https://twitter.com/TelcoSec">
     <img src="https://img.shields.io/badge/Twitter-%40TelcoSec-1DA1F2?style=for-the-badge&logo=twitter" height="30"/>
@@ -95,6 +120,12 @@ For responsible disclosure of telecom system vulnerabilities, please follow our 
   </a>
 </div>
 
+### Documentation & Resources
+- [Contributing Guidelines](https://github.com/TelcoSec/community/blob/main/CONTRIBUTING.md)
+- [Security Policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md)
+- [Issue Tracker](https://github.com/TelcoSec/research/issues)
+- [Documentation](https://docs.telco-sec.com)
+
 ## 📜 License
 
 This project is licensed under the [Apache License 2.0](LICENSE) unless otherwise specified.
@@ -104,3 +135,8 @@ This project is licensed under the [Apache License 2.0](LICENSE) unless otherwis
 <div align="center">
   <img src="https://img.shields.io/badge/Advancing%20Telecom%20Security%20Since%201995-darkblue?style=for-the-badge" height="30"/>
 </div>
+
+## Contact
+
+- Website: [telco-sec.com](https://telco-sec.com)
+- Email: [contact@telco-sec.com](mailto:contact@telco-sec.com)
