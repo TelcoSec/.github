@@ -1,68 +1,40 @@
-# 🔐 Telecom Security Research Project
+# 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/banner.png" alt="Telco-Sec Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/banner.png" alt="TelcoSec Banner" width="800"/>
   
-  ### **Opening Telecom Security Research to the Community Since 2020**
+  ### **Advancing Telecommunications Security Research Since 2020**
   
   [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://www.telco-sec.com)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/jkUKw2cBxX)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-telcosec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/showcase/telcosec)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/jkUKw2cBxX)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/showcase/telcosec)
   [![GitHub followers](https://img.shields.io/github/followers/TelcoSec?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
 </div>
 
-## 📡 About Us
+## 📋 Overview
 
-Telco-sec.com is an open community dedicated to researching and sharing knowledge about telecom security. Founded in 2020 by RFS, a telecom professional since 2010 who has been testing telecom security boundaries since 1995.
-Project Structure
-This repository contains research materials, methodologies, and tools for security analysis of telecommunications technologies across all layers:
+TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2020, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
 
-## Topics
-[sim-esim-research.md](sim-esim-research.md) - SIM/eSIM security research
-[02-basebands/README.md](02-basebands/README.md) - Baseband security research
-[03-mobile-internals/README.md](03-mobile-internals/README.md) - Mobile internals security research
-[04-ran/README.md](04-ran/README.md) - Radio Access Network security research
-[05-core-network/README.md](05-core-network/README.md) - Core network security research
-[06-technologies/README.md](06-technologies/README.md) - Technology-specific (2G/3G/4G/5G) research
-[07-plmn-integration/README.md](07-plmn-integration/README.md) - PLMN integration security research
-[tools/linux/README.md](tools/linux/README.md) - Linux-specific tools
-[tools/online/README.md](tools/online/README.md) - Online platform tools and resources
-[tools/common/README.md](tools/common/README.md) - Cross-platform common tools
-[methodology/README.md](methodology/README.md) - Research methodology framework
-[methodology/CONTRIBUTING.md](methodology/CONTRIBUTING.md) - Contribution guidelines
+## 🎯 Mission & Vision
 
+Our mission is to enhance the security landscape of telecommunications through:
 
+- Advanced research and development in telecom security
+- Knowledge sharing and community collaboration
+- Development of open-source security testing tools
+- Practical insights from industry experience
+- Standardization of security testing methodologies
 
+## 🔬 Research Areas
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔍 Our Mission</h3>
-      <ul>
-        <li>Demystify telecom security concepts for the wider community</li>
-        <li>Provide accessible resources for security researchers</li>
-        <li>Share practical knowledge from decades of telecom experience</li>
-        <li>Develop open-source tools for telecom security testing</li>
-        <li>Build a collaborative community of telecom security experts</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Our Expertise</h3>
-      <ul>
-        <li>SS7/Diameter/SIP Signaling Security</li>
-        <li>2G to 5G Network Security</li>
-        <li>Core Network Vulnerability Assessment</li>
-        <li>Telecom Protocol Analysis</li>
-        <li>Radio Interface Security</li>
-        <li>Subscriber Identity Protection</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Core Focus
+- **Network Security**: Comprehensive analysis of 2G-5G architectures
+- **Protocol Security**: SS7, Diameter, and SIP signaling
+- **Infrastructure**: Core network and RAN security
+- **Identity & Authentication**: SIM/eSIM security mechanisms
+- **Emerging Technologies**: 5G security architecture and beyond
 
-## 🛠️ Our Projects
-
-## 📋 Current Research Focus
+### Current Research Initiatives
 
 <table>
   <tr>
@@ -77,28 +49,33 @@ This repository contains research materials, methodologies, and tools for securi
   </tr>
 </table>
 
-## 📚 Research Publications
+## 📚 Documentation & Resources
 
-### Mobile
-- SIM / eSIM Cards
-- Basebands
-- Mobile Internals
-- Radio Access Network (RAN)
-- Core Networks
-- Technology-specific research (2G/3G/4G/5G)
-- PLMN Integration
- 
+### Research Documentation
+- [SIM/eSIM Security](sim-esim-research.md)
+- [Baseband Security](02-basebands/README.md)
+- [Mobile Internals](03-mobile-internals/README.md)
+- [RAN Security](04-ran/README.md)
+- [Core Network Security](05-core-network/README.md)
+- [Technology-Specific Research](06-technologies/README.md)
+- [PLMN Integration](07-plmn-integration/README.md)
 
+### Tools & Resources
+- [Linux Security Tools](tools/linux/README.md)
+- [Online Platform Resources](tools/online/README.md)
+- [Cross-Platform Tools](tools/common/README.md)
+- [Research Methodology](methodology/README.md)
+- [Contribution Guidelines](methodology/CONTRIBUTING.md)
 
-## 👥 Contributing
+## 🤝 Community Engagement
 
-We welcome contributions from the security and telecommunications community. Please read our [contribution guidelines](https://github.com/TelcoSec/community/blob/main/CONTRIBUTING.md) before submitting pull requests.
+### How to Contribute
+We welcome contributions from the security and telecommunications community. Please review our [contribution guidelines](https://github.com/TelcoSec/community/blob/main/CONTRIBUTING.md) before submitting pull requests.
 
-## 🔒 Security Disclosure
+### Security Disclosure
+For responsible disclosure of telecom system vulnerabilities, please follow our [security policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
 
-For responsibly reporting security vulnerabilities in telecom systems, please follow our [responsible disclosure policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
-
-## 📬 Contact & Community
+## 📬 Connect With Us
 
 <div align="center">
   <a href="https://www.telco-sec.com">
@@ -107,26 +84,23 @@ For responsibly reporting security vulnerabilities in telecom systems, please fo
   <a href="mailto:research@telco-sec.com">
     <img src="https://img.shields.io/badge/Email-research%40telco--sec.com-red?style=for-the-badge&logo=mail.ru" height="30"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://twitter.com/TelcoSec">
     <img src="https://img.shields.io/badge/Twitter-%40TelcoSec-1DA1F2?style=for-the-badge&logo=twitter" height="30"/>
   </a>
   <a href="https://www.linkedin.com/showcase/telcosec">
-    <img src="https://img.shields.io/badge/LinkedIn-telcosec-0077B5?style=for-the-badge&logo=linkedin" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin" height="30"/>
   </a>
   <a href="https://discord.gg/jkUKw2cBxX">
-    <img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord" height="30"/>
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" height="30"/>
   </a>
 </div>
 
 ## 📜 License
 
-Unless otherwise specified, all projects are licensed under the [Apache License 2.0](LICENSE)
+This project is licensed under the [Apache License 2.0](LICENSE) unless otherwise specified.
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Testing%20Telecom%20Security%20Boundaries%20Since%201995-darkblue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Advancing%20Telecom%20Security%20Since%201995-darkblue?style=for-the-badge" height="30"/>
 </div>
