@@ -1,7 +1,7 @@
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
-  <img src="./images/LEA.jpg" alt="TelcoSec Banner" width="800"/>
+  <img src="./images/Cover.jpg" alt="TelcoSec Cover" width="800"/>
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
@@ -15,6 +15,10 @@
 
 TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2020, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
 
+<div align="center">
+  <img src="./images/methodology.png" alt="Research Methodology" width="600"/>
+</div>
+
 ## 🎯 Mission & Vision
 
 Our mission is to enhance the security landscape of telecommunications through:
@@ -25,6 +29,10 @@ Our mission is to enhance the security landscape of telecommunications through:
 - Practical insights from industry experience
 - Standardization of security testing methodologies
 
+<div align="center">
+  <img src="./images/RFSSecurity.png" alt="Security Framework" width="600"/>
+</div>
+
 ## 🔬 Research Areas
 
 ### Core Focus
@@ -33,6 +41,10 @@ Our mission is to enhance the security landscape of telecommunications through:
 - **Infrastructure**: Core network and RAN security
 - **Identity & Authentication**: SIM/eSIM security mechanisms
 - **Emerging Technologies**: 5G security architecture and beyond
+
+<div align="center">
+  <img src="./images/rfs-lab.jpg" alt="Research Lab" width="600"/>
+</div>
 
 ### Current Research Initiatives
 
@@ -51,6 +63,10 @@ Our mission is to enhance the security landscape of telecommunications through:
 
 ## 📚 Documentation & Resources
 
+<div align="center">
+  <img src="./images/CAMEL.jpg" alt="Technical Documentation" width="600"/>
+</div>
+
 ### Official Platforms
 - [TelcoSec Knowledge Center](https://www.telco-sec.com/) - Comprehensive telecommunications security resources and learning paths
 - [3GPP Explainer](https://3gpp.telco-sec.com/) - Detailed guide to 3GPP standards and mobile network technologies
@@ -67,6 +83,10 @@ Our mission is to enhance the security landscape of telecommunications through:
 - [Technology-Specific Research](docs/tech-specific-research.md)
 - [PLMN Integration Research](docs/plmn-integration-research.md)
 
+<div align="center">
+  <img src="./images/imsi.jpg" alt="Security Research" width="600"/>
+</div>
+
 ### Community Resources
 - [Contributing Guidelines](docs/contributing.md)
 - [Security Policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md)
@@ -79,6 +99,10 @@ We welcome contributions from the security and telecommunications community. Ple
 
 ### Security Disclosure
 For responsible disclosure of telecom system vulnerabilities, please follow our [security policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
+
+<div align="center">
+  <img src="./images/RFS_wall.jpg" alt="Community Engagement" width="600"/>
+</div>
 
 ## 📬 Connect With Us
 
@@ -132,6 +156,7 @@ This project is licensed under the [Apache License 2.0](LICENSE) unless otherwis
 ---
 
 <div align="center">
+  <img src="./images/og-image.jpg" alt="TelcoSec Footer" width="600"/>
   <img src="https://img.shields.io/badge/Advancing%20Telecom%20Security%20Since%201995-darkblue?style=for-the-badge" height="30"/>
 </div>
 
