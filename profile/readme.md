@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TelcoSec/resources/main/images/banner.png" alt="Telco-Sec Banner" width="800"/>
   
-  ### **Securing Telecommunications Infrastructure Through Real-time Monitoring, Analysis and Response**
+  ### **Opening Telecom Security Research to the Community Since 2020**
   
   [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://www.telco-sec.com)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/jkUKw2cBxX)
@@ -13,29 +13,29 @@
 
 ## 📡 About Us
 
-Telco-Sec delivers enterprise-grade security solutions for telecommunications infrastructure worldwide. Our security operations centers (SOCs) leverage advanced network visualization, real-time threat detection, and automated response capabilities to protect critical telecom assets.
+Telco-Sec is an open community focused on researching and sharing knowledge about telecom security. Founded in 2020 by a telecom professional with experience dating back to 1995, we're dedicated to dissecting telecom technologies to better understand their security boundaries.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🔍 What We Offer</h3>
+      <h3>🔍 Our Mission</h3>
       <ul>
-        <li>24/7 real-time monitoring of telecom infrastructure</li>
-        <li>Advanced threat intelligence specific to telecommunications</li>
-        <li>Rapid incident response for network security events</li>
-        <li>Custom security tools for telecom-specific vulnerabilities</li>
-        <li>Comprehensive security assessments and penetration testing</li>
+        <li>Demystify telecom security concepts for the wider community</li>
+        <li>Provide accessible resources for security researchers</li>
+        <li>Share practical knowledge from decades of telecom experience</li>
+        <li>Develop open-source tools for telecom security testing</li>
+        <li>Build a collaborative community of telecom security experts</li>
       </ul>
     </td>
     <td width="50%">
       <h3>🛡️ Our Expertise</h3>
       <ul>
         <li>SS7/Diameter/SIP Signaling Security</li>
-        <li>5G & Beyond Security Architecture</li>
-        <li>Core Network Protection</li>
-        <li>Telecom-specific Threat Hunting</li>
-        <li>Zero-Trust Implementation for Telecom</li>
-        <li>NFV/SDN Security Monitoring</li>
+        <li>2G to 5G Network Security</li>
+        <li>Core Network Vulnerability Assessment</li>
+        <li>Telecom Protocol Analysis</li>
+        <li>Radio Interface Security</li>
+        <li>Subscriber Identity Protection</li>
       </ul>
     </td>
   </tr>
@@ -45,88 +45,88 @@ Telco-Sec delivers enterprise-grade security solutions for telecommunications in
 
 ### ⚙️ Analysis Tools
 <div align="center">
-  <a href="https://github.com/TelcoSec/TelcoGuard">
-    <img src="https://img.shields.io/badge/TelcoGuard-SOC%20Platform-blue?style=flat-square" height="25"/>
+  <a href="https://github.com/TelcoSec/SS7Map">
+    <img src="https://img.shields.io/badge/SS7Map-Signaling%20Analysis-blue?style=flat-square" height="25"/>
   </a>
-  <a href="https://github.com/TelcoSec/SS7-Sentinel">
-    <img src="https://img.shields.io/badge/SS7--Sentinel-Signaling%20Protection-green?style=flat-square" height="25"/>
+  <a href="https://github.com/TelcoSec/DiameterExplorer">
+    <img src="https://img.shields.io/badge/DiameterExplorer-Protocol%20Research-green?style=flat-square" height="25"/>
   </a>
-  <a href="https://github.com/TelcoSec/Diameter-Shield">
-    <img src="https://img.shields.io/badge/Diameter--Shield-4G/5G%20Security-orange?style=flat-square" height="25"/>
+  <a href="https://github.com/TelcoSec/SIPScanner">
+    <img src="https://img.shields.io/badge/SIPScanner-VoIP%20Assessment-orange?style=flat-square" height="25"/>
   </a>
-  <a href="https://github.com/TelcoSec/SIP-Defender">
-    <img src="https://img.shields.io/badge/SIP--Defender-VoIP%20Protection-red?style=flat-square" height="25"/>
+  <a href="https://github.com/TelcoSec/IMSIcatcher">
+    <img src="https://img.shields.io/badge/IMSIcatcher-Detection%20Tools-red?style=flat-square" height="25"/>
   </a>
-  <a href="https://github.com/TelcoSec/SignalWatch">
-    <img src="https://img.shields.io/badge/SignalWatch-Unified%20Monitoring-purple?style=flat-square" height="25"/>
+  <a href="https://github.com/TelcoSec/RanAudit">
+    <img src="https://img.shields.io/badge/RanAudit-Radio%20Analysis-purple?style=flat-square" height="25"/>
   </a>
 </div>
 
-* **[TelcoGuard](https://github.com/TelcoSec/TelcoGuard)**: Our flagship SOC platform for real-time monitoring and visualization of telecom network security
-* **[SS7-Sentinel](https://github.com/TelcoSec/SS7-Sentinel)**: Advanced SS7 network monitoring and protection system with ML-based anomaly detection
-* **[Diameter-Shield](https://github.com/TelcoSec/Diameter-Shield)**: Next-generation Diameter protocol security monitoring and firewall solution
-* **[SIP-Defender](https://github.com/TelcoSec/SIP-Defender)**: Enterprise-grade SIP security monitoring, analysis and protection suite
-* **[SignalWatch](https://github.com/TelcoSec/SignalWatch)**: Unified dashboard for cross-protocol signaling security monitoring
+* **[SS7Map](https://github.com/TelcoSec/SS7Map)**: Tool for mapping and visualizing SS7 network vulnerabilities and attack vectors
+* **[DiameterExplorer](https://github.com/TelcoSec/DiameterExplorer)**: Research toolkit for analyzing Diameter protocol implementations and security flaws
+* **[SIPScanner](https://github.com/TelcoSec/SIPScanner)**: Open-source scanner for identifying vulnerable SIP configurations and implementations
+* **[IMSIcatcher](https://github.com/TelcoSec/IMSIcatcher)**: Detection and analysis tools for identifying unauthorized IMSI catchers
+* **[RanAudit](https://github.com/TelcoSec/RanAudit)**: Radio Access Network security assessment framework
 
-### 🔒 Security Frameworks & Tools
-* **[TelcoSec-SOC-Platform](https://github.com/TelcoSec/TelcoSec-SOC-Platform)**: Open source components of our telecommunications security operations center platform
-* **[5G-Security-Framework](https://github.com/TelcoSec/5G-Security-Framework)**: Comprehensive security architecture and monitoring solution for 5G networks
-* **[Telecom-Zero-Trust](https://github.com/TelcoSec/Telecom-Zero-Trust)**: Zero Trust implementation with continuous verification for telecommunications networks
-* **[NFV-Security-Monitor](https://github.com/TelcoSec/NFV-Security-Monitor)**: Real-time security monitoring for Network Function Virtualization environments
-* **[Telecom-SIEM-Integrations](https://github.com/TelcoSec/Telecom-SIEM-Integrations)**: Integration modules for connecting telecom security tools with enterprise SIEM solutions
+### 🔒 Documentation & Frameworks
+* **[GSM-Security-Compendium](https://github.com/TelcoSec/GSM-Security-Compendium)**: Comprehensive analysis of 2G/GSM security vulnerabilities with historical context
+* **[UMTS-Security-Analysis](https://github.com/TelcoSec/UMTS-Security-Analysis)**: Deep dive into 3G/UMTS security architecture, improvements, and remaining flaws
+* **[LTE-Security-Research](https://github.com/TelcoSec/LTE-Security-Research)**: Research documents on 4G/LTE security improvements and persisting vulnerabilities
+* **[5G-Security-Overview](https://github.com/TelcoSec/5G-Security-Overview)**: Analysis of 5G security architecture, new features, and potential risk areas
+* **[Telecom-Red-Team-Framework](https://github.com/TelcoSec/Telecom-Red-Team-Framework)**: Methodology for conducting red team assessments against telecom infrastructure
 
-### 📊 Documentation and Intelligence
-* **[Telecom-Security-Standards](https://github.com/TelcoSec/Telecom-Security-Standards)**: Compilation and analysis of telecom security standards with implementation guides
-* **[Telecom-Threat-Intelligence](https://github.com/TelcoSec/Telecom-Threat-Intelligence)**: Open source threat intelligence feeds specific to telecommunications sector
-* **[TelcoSec-CTI-Framework](https://github.com/TelcoSec/TelcoSec-CTI-Framework)**: Cyber Threat Intelligence framework customized for telecom infrastructure
-* **[Signaling-Security-Playbooks](https://github.com/TelcoSec/Signaling-Security-Playbooks)**: Incident response playbooks for common signaling network attacks
-* **[Telecom-SOC-Handbook](https://github.com/TelcoSec/Telecom-SOC-Handbook)**: Comprehensive guide for building and operating a telecom-focused security operations center
+### 📊 Educational Resources
+* **[Telecom-Security-Fundamentals](https://github.com/TelcoSec/Telecom-Security-Fundamentals)**: Educational resources for newcomers to telecom security concepts
+* **[Signaling-Attack-Vectors](https://github.com/TelcoSec/Signaling-Attack-Vectors)**: Categorized documentation of known attack vectors across telecom signaling protocols
+* **[Protocol-Security-Comparison](https://github.com/TelcoSec/Protocol-Security-Comparison)**: Side-by-side security comparison of telecom protocols across generations
+* **[Telecom-Security-Lab](https://github.com/TelcoSec/Telecom-Security-Lab)**: Guide to building your own telecom security testing environment
+* **[Roaming-Security-Analysis](https://github.com/TelcoSec/Roaming-Security-Analysis)**: Research on security implications of international roaming implementations
 
-## 📋 Current Focus Areas
+## 📋 Current Research Focus
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/5G-Network%20Slicing%20Security-brightgreen" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/Signaling-ML--Based%20Threat%20Detection-orange" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/APIs-Telecom%20API%20Security-blue" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/5G-Security%20Architecture%20Analysis-brightgreen" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Signaling-Cross%20Protocol%20Attacks-orange" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Legacy-2G%20Persistence%20Risks-blue" height="25"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Core-Cloud%20Native%20Security-purple" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/IoT-Cellular%20IoT%20Security-red" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/Private-Private%205G%20Networks-yellow" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Roaming-Security%20Implications-purple" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/IoT-Telecom%20Protocol%20Misuse-red" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Private-Radio%20Interface%20Security-yellow" height="25"/></td>
   </tr>
 </table>
 
-## 📚 Research & Insights
+## 📚 Research Publications
 
-Our security research team continuously analyzes emerging threats to telecommunications infrastructure. Recent publications include:
+Our community regularly publishes research on telecom security topics. Recent publications include:
 
-* **[Global Telecommunications Threat Landscape Report 2025](https://github.com/TelcoSec/research/telecom-threat-landscape-2025.pdf)**
-* **[Real-time Detection of Advanced Persistent Threats in 5G Network Slicing](https://github.com/TelcoSec/research/apt-detection-5g-slicing.pdf)**
-* **[Machine Learning for Telecom Signaling Anomaly Detection](https://github.com/TelcoSec/research/ml-signaling-anomaly-detection.pdf)**
-* **[Security Operations Center Design for Telecommunications Providers](https://github.com/TelcoSec/research/telecom-soc-design.pdf)**
-* **[Quantum-Resistant Cryptography Implementation Guide for Telecom Networks](https://github.com/TelcoSec/research/quantum-resistant-implementation.pdf)**
+* **[Security Evolution from 2G to 5G: What's Improved and What Hasn't](https://github.com/TelcoSec/research/2g-to-5g-security-evolution.pdf)**
+* **[Practical Attacks Against Modern Telecom Networks](https://github.com/TelcoSec/research/modern-telecom-attacks.pdf)**
+* **[Subscriber Identity Protection: Past, Present and Future](https://github.com/TelcoSec/research/subscriber-identity-protection.pdf)**
+* **[Roaming Security: The Forgotten Vulnerability](https://github.com/TelcoSec/research/roaming-security-vulnerabilities.pdf)**
+* **[Testing Telecom Security Boundaries: Lessons from 25+ Years in the Field](https://github.com/TelcoSec/research/telecom-security-boundaries-lessons.pdf)**
 
-Check our [Research Repository](https://github.com/TelcoSec/research) for complete access to our publications, threat reports, and security advisories.
+Check our [Research Repository](https://github.com/TelcoSec/research) for complete access to our publications, whitepapers, and security advisories.
 
-## 🔭 SOC as a Service
+## 🎓 Community Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/24%2F7-Monitoring-green?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Expert-Analysis-blue?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Rapid-Response-red?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Workshops-Virtual%20%26%20In--Person-green?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Knowledge-Sharing-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Collaborative-Research-red?style=for-the-badge" height="30"/>
 </div>
 
-Telco-Sec offers Telecom Security Operations Center (SOC) as a Service for communications service providers and large enterprises. Our 24/7 monitored SOC services include:
+Telco-Sec emphasizes knowledge sharing and community learning. Join us through:
 
-* Real-time telecommunications network monitoring
-* Dedicated telecom security analysts
-* Customized alert rules for your environment
-* Incident response and remediation
-* Regular security posture assessments
-* Compliance reporting and documentation
+* Virtual workshops on telecom security topics
+* Research collaboration opportunities
+* Community discussion forums
+* Practical labs and demonstrations
+* Conference presentations and meet-ups
+* Mentorship for security researchers
 
-[Learn more about our SOC services](https://github.com/TelcoSec/soc-as-a-service)
+[Join our Discord community](https://discord.gg/jkUKw2cBxX) to connect with other telecom security enthusiasts.
 
 ## 👥 Contributing
 
@@ -134,7 +134,7 @@ We welcome contributions from the security and telecommunications community. Ple
 
 ## 🔒 Security Disclosure
 
-For reporting security vulnerabilities in telecom systems or our tools, please follow our [responsible disclosure policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
+For responsibly reporting security vulnerabilities in telecom systems, please follow our [responsible disclosure policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
 
 ## 📬 Contact & Community
 
@@ -142,11 +142,8 @@ For reporting security vulnerabilities in telecom systems or our tools, please f
   <a href="https://www.telco-sec.com">
     <img src="https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=firefox" height="30"/>
   </a>
-  <a href="https://docs.telco-sec.com">
-    <img src="https://img.shields.io/badge/Docs-docs.telco--sec.com-green?style=for-the-badge&logo=read-the-docs" height="30"/>
-  </a>
-  <a href="mailto:security@telco-sec.com">
-    <img src="https://img.shields.io/badge/Email-security%40telco--sec.com-red?style=for-the-badge&logo=mail.ru" height="30"/>
+  <a href="mailto:research@telco-sec.com">
+    <img src="https://img.shields.io/badge/Email-research%40telco--sec.com-red?style=for-the-badge&logo=mail.ru" height="30"/>
   </a>
 </div>
 
@@ -169,5 +166,5 @@ Unless otherwise specified, all projects are licensed under the [Apache License 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Protecting-Telecommunications-darkblue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Testing%20Telecom%20Security%20Boundaries%20Since%201995-darkblue?style=for-the-badge" height="30"/>
 </div>
