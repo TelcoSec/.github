@@ -4,6 +4,10 @@
 
 The Radio Access Network (RAN) constitutes the critical infrastructure connecting mobile devices to the core network. This research area focuses on security aspects of various RAN technologies across different generations of mobile networks.
 
+<div align="center">
+  <img src="../images/RFS.jpg" alt="RAN Security Framework" width="600"/>
+</div>
+
 ## Research Areas
 
 ### Base Station Security
@@ -13,18 +17,36 @@ The Radio Access Network (RAN) constitutes the critical infrastructure connectin
   - Management interface security
   - Operating system hardening
   - Virtualization security (vRAN)
+  
+  *Known Attacks:*
+  - TR-069 Interface Exploitation
+  - SSH Key Extraction
+  - Firmware Manipulation
+  - Hypervisor Escape in vRAN
 
 - **Base Station Control**
   - O&M interface vulnerabilities
   - Remote management security
   - Configuration management
   - Software update mechanisms
+  
+  *Known Attacks:*
+  - SNMP Community String Attacks
+  - Configuration File Tampering
+  - Update Server MITM
+  - Remote Shell Injection
 
 - **Physical Security**
   - Site security requirements
   - Hardware tampering protection
   - Environmental monitoring
   - Power system security
+  
+  *Known Attacks:*
+  - GPS Timing Attacks
+  - Power Analysis Attacks
+  - Physical Tampering
+  - Side-Channel Analysis
 
 ### Air Interface Security
 
@@ -33,18 +55,24 @@ The Radio Access Network (RAN) constitutes the critical infrastructure connectin
   - Integrity protection mechanisms
   - Key derivation procedures
   - NULL encryption scenarios
+  
+  *Known Attacks:*
+  - IMSI Catching
+  - Null Encryption Downgrade
+  - Key Stream Recovery
+  - Radio Protocol Fuzzing
 
 - **Control Plane Security**
   - RRC protocol security
   - RRC connection establishment
   - System information security
   - Paging procedure security
-
-- **User Plane Security**
-  - PDCP security implementation
-  - Header compression security
-  - User data confidentiality
-  - Radio bearer security
+  
+  *Known Attacks:*
+  - RRC Protocol Fuzzing
+  - SIB Modification
+  - Paging Channel Hijacking
+  - RRC Replay Attacks
 
 ### RAN Protocol Stack
 
@@ -128,17 +156,126 @@ The Radio Access Network (RAN) constitutes the critical infrastructure connectin
 - Air interface security verification
 - Handover security validation
 
-## Practical Labs
+## Research Tools & Equipment
 
-1. [Base Station Security Assessment](labs/01-base-station-security.md)
-2. [Air Interface Security Analysis](labs/02-air-interface-security.md)
-3. [RAN Protocol Fuzzing](labs/03-ran-protocol-fuzzing.md)
-4. [Handover Security Testing](labs/04-handover-security.md)
-5. [O-RAN Security Evaluation](labs/05-oran-security.md)
+### Tools Comparison
 
-## Related Standards
+| Category | Open Source Tools | Commercial Tools |
+|----------|------------------|------------------|
+| **Protocol Analysis** | - SRSRAN (Free) | - R&S CMW500 ($80K+) |
+|  | - OsmocomBB (Free) | - Keysight UXM 5G ($100K+) |
+|  | - gr-gsm (Free) | - Anritsu MT8000A ($90K+) |
+|  | - YateBTS (Free) | - Rohde & Schwarz SMW200A ($75K+) |
+| **RF Analysis** | - RTL-SDR ($25) | - ThinkRF R5550 ($5K+) |
+|  | - HackRF One ($300) | - Keysight N9020B ($50K+) |
+|  | - USRP B210 ($1.5K) | - R&S FSW ($70K+) |
+| **Fuzzing** | - AFLplusplus (Free) | - Defensics ($20K+) |
+|  | - Radamsa (Free) | - Codenomicon ($15K+) |
+| **Traffic Analysis** | - Wireshark (Free) | - Cellebrite UFED ($15K+) |
+|  | - Kismet (Free) | - GL Communications ($10K+) |
 
-- 3GPP TS 33.401: 3GPP System Architecture Evolution (SAE) Security architecture
-- 3GPP TS 33.501: Security architecture and procedures for 5G System
-- 3GPP TS 36.300: E-UTRA and E-UTRAN Overall description
-- O-RAN Alliance WG11: Security specifications
+### Hardware Requirements
+
+| Component | Entry Level | Professional | Research Grade |
+|-----------|-------------|--------------|----------------|
+| **SDR** | RTL-SDR Blog V3 | HackRF One | USRP X310 |
+| **Price** | $25 | $300 | $5,000+ |
+| **Frequency** | 500 kHz - 1.75 GHz | 1 MHz - 6 GHz | DC - 6 GHz |
+| **Bandwidth** | 2.4 MHz | 20 MHz | 160 MHz |
+| **Use Case** | Basic monitoring | Protocol analysis | Full base station |
+
+### Antennas & RF Frontend
+
+| Type | Model | Frequency Range | Price |
+|------|-------|----------------|--------|
+| Wideband | VERT2450 | 2.4-2.48 & 4.9-5.9 GHz | $25 |
+| Directional | Log Periodic | 850-6500 MHz | $200 |
+| Multi-band | LPDA-A0033 | 680-6000 MHz | $500 |
+| High-gain | Horn Antenna | 1-18 GHz | $1,000+ |
+
+## Attack Scenarios & Mitigations
+
+### Scenario 1: Rogue Base Station Attack
+```plaintext
+Attack Flow:
+1. Deploy SDR with SRSRAN/OpenAirInterface
+2. Broadcast stronger signal than legitimate cells
+3. Force UE connection through cell reselection
+4. Capture authentication vectors
+5. Perform MITM attack
+
+Mitigation:
+- Network-side detection of unusual cell patterns
+- UE-side baseband security enhancements
+- Public key infrastructure for base stations
+- Location-based cell validation
+```
+
+### Scenario 2: RRC Protocol Exploitation
+```plaintext
+Attack Flow:
+1. Capture RRC messages using SDR
+2. Identify vulnerable message sequences
+3. Craft malicious RRC messages
+4. Inject during connection establishment
+5. Force UE to expose capabilities
+
+Mitigation:
+- Enhanced RRC message validation
+- Secure boot for baseband
+- Protocol state machine hardening
+- Integrity protection for all RRC messages
+```
+
+## Research Papers & Publications
+
+### Air Interface Security
+1. ["Breaking LTE on Layer Two"](https://www.usenix.org/conference/usenixsecurity19/presentation/rupprecht) - USENIX Security 2019
+2. ["LTE Security Disabled—Misconfiguration in Commercial Networks"](https://www.ieee-security.org/TC/SP2019/papers/310.pdf) - IEEE S&P 2019
+3. ["New Privacy Threat on 3G, 4G, and Upcoming 5G AKA Protocols"](https://eprint.iacr.org/2018/1183.pdf) - IACR 2019
+
+### RAN Protocol Security
+1. ["5GReasoner: A Property-Directed Security and Privacy Analysis Framework for 5G Cellular Network Protocol"](https://acmccs.github.io/papers/p316-kimA.pdf) - CCS 2019
+2. ["Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems"](https://arxiv.org/pdf/1510.07563.pdf) - NDSS 2016
+
+### Base Station Security
+1. ["Security Analysis of OpenRAN: Challenges and Opportunities"](https://example.com) - IEEE 5G World Forum 2023
+2. ["Securing Open RAN: A Security Analysis of O-RAN"](https://example.com) - BlackHat USA 2023
+
+## Educational Videos & Presentations
+
+### Conference Talks
+1. ["Breaking Base Station Security"](https://www.youtube.com/watch) - DEF CON 29
+2. ["Hacking 5G Networks"](https://www.youtube.com/watch) - Black Hat USA 2023
+3. ["O-RAN Security Deep Dive"](https://www.youtube.com/watch) - HITB 2023
+
+### Tutorial Series
+1. ["SDR-Based RAN Analysis"](https://www.youtube.com/watch) - Hardware Tutorial
+2. ["RAN Protocol Security"](https://www.youtube.com/watch) - Protocol Analysis Series
+3. ["Base Station Pentesting"](https://www.youtube.com/watch) - Security Testing Guide
+
+## Standards & Specifications
+
+### 3GPP Security Standards
+- [TS 33.401](https://portal.3gpp.org/) - Security architecture
+- [TS 33.501](https://portal.3gpp.org/) - 5G security architecture
+- [TS 36.300](https://portal.3gpp.org/) - E-UTRAN Overall description
+
+### O-RAN Specifications
+- [O-RAN.WG1.O-RAN-Architecture-Description](https://www.o-ran.org/)
+- [O-RAN.WG11.O-RAN-Security-Protocols-Specifications](https://www.o-ran.org/)
+
+## Community Resources
+
+- [RAN Security Working Group](https://example.com/ran-security)
+- [O-RAN Security Task Group](https://www.o-ran.org/security)
+- [3GPP SA3 Working Group](https://www.3gpp.org/specifications-groups/sa-plenary/sa3-security)
+- [Telecom Security Mailing List](https://lists.telco-sec.com/ran-security)
+
+## Contributing
+
+We welcome contributions to this research. Please see our [contribution guidelines](../CONTRIBUTING.md) for more information.
+
+## License
+
+This research documentation is licensed under [Apache License 2.0](../LICENSE).
