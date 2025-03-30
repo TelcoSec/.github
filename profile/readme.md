@@ -77,24 +77,7 @@ This repository contains research materials, methodologies, and tools for securi
 - Technology-specific research (2G/3G/4G/5G)
 - PLMN Integration
  
-## 🎓 Community Learning
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Workshops-Virtual%20%26%20In--Person-green?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Knowledge-Sharing-blue?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Collaborative-Research-red?style=for-the-badge" height="30"/>
-</div>
-
-Telco-Sec emphasizes knowledge sharing and community learning. Join us through:
-
-* Virtual workshops on telecom security topics
-* Research collaboration opportunities
-* Community discussion forums
-* Practical labs and demonstrations
-* Conference presentations and meet-ups
-* Mentorship for security researchers
-
-[Join our Discord community](https://discord.gg/jkUKw2cBxX) to connect with other telecom security enthusiasts.
 
 ## 👥 Contributing
 
