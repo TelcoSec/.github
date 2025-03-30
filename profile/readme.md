@@ -52,25 +52,23 @@ Our mission is to enhance the security landscape of telecommunications through:
 ## 📚 Documentation & Resources
 
 ### Research Documentation
-- [SIM/eSIM Security](sim-esim-research.md)
-- [Baseband Security](02-basebands/README.md)
-- [Mobile Internals](03-mobile-internals/README.md)
-- [RAN Security](04-ran/README.md)
-- [Core Network Security](05-core-network/README.md)
-- [Technology-Specific Research](06-technologies/README.md)
-- [PLMN Integration](07-plmn-integration/README.md)
+- [SIM/eSIM Security Research](docs/sim-esim-research.md)
+- [Baseband Security Research](docs/baseband-research.md)
+- [Mobile Internals Research](docs/mobile-internals-research.md)
+- [RAN Security Research](docs/ran-research.md)
+- [Core Network Security Research](docs/core-network-research.md)
+- [Technology-Specific Research](docs/tech-specific-research.md)
+- [PLMN Integration Research](docs/plmn-integration-research.md)
 
-### Tools & Resources
-- [Linux Security Tools](tools/linux/README.md)
-- [Online Platform Resources](tools/online/README.md)
-- [Cross-Platform Tools](tools/common/README.md)
-- [Research Methodology](methodology/README.md)
-- [Contribution Guidelines](methodology/CONTRIBUTING.md)
+### Community Resources
+- [Contributing Guidelines](docs/contributing.md)
+- [Security Policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md)
+- [Issue Tracker](https://github.com/TelcoSec/research/issues)
 
 ## 🤝 Community Engagement
 
 ### How to Contribute
-We welcome contributions from the security and telecommunications community. Please review our [contribution guidelines](https://github.com/TelcoSec/community/blob/main/CONTRIBUTING.md) before submitting pull requests.
+We welcome contributions from the security and telecommunications community. Please review our [contribution guidelines](docs/contributing.md) before submitting pull requests.
 
 ### Security Disclosure
 For responsible disclosure of telecom system vulnerabilities, please follow our [security policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
@@ -119,12 +117,6 @@ For responsible disclosure of telecom system vulnerabilities, please follow our 
     <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" height="30"/>
   </a>
 </div>
-
-### Documentation & Resources
-- [Contributing Guidelines](https://github.com/TelcoSec/community/blob/main/CONTRIBUTING.md)
-- [Security Policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md)
-- [Issue Tracker](https://github.com/TelcoSec/research/issues)
-- [Documentation](https://docs.telco-sec.com)
 
 ## 📜 License
 
