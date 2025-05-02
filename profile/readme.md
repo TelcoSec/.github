@@ -1,7 +1,7 @@
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
-  <img src="./images/Cover.jpg" alt="TelcoSec Cover" width="800"/>
+  <img src="./images/telcosec.jpg" alt="TelcoSec Cover" width="800"/>
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
