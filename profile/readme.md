@@ -218,3 +218,51 @@ This project is licensed under the [Apache License 2.0](LICENSE) unless otherwis
 
 - Website: [telco-sec.com](https://telco-sec.com)
 - Email: [contact@telco-sec.com](mailto:contact@telco-sec.com)
+
+## 📡 GSM Security & Pentesting Labs
+
+Explore hands-on GSM security research, pentesting labs, and device hacking guides at [TelcoSec GSM Hacking](https://gsm-hacking.telco-sec.com/).
+
+Key topics:
+- GSM attack types and real-world scenarios
+- Step-by-step GSM pentest lab setup
+- SIM card security and AT commands
+- Passive sniffing, IMSI catching, SMS/voice interception
+- Security of GSM-based IoT and consumer devices
+
+> **Note:** This resource is for educational purposes only. Always follow legal and ethical guidelines.
+
+Join the [TelcoSec Ops Discord](https://discord.gg/jkUKw2cBxX) for community support and updates.
+
+Source: [TelcoSec GSM Hacking](https://gsm-hacking.telco-sec.com/)
+
+## 🔄 Diameter Protocol Training & Resources
+
+Dive into comprehensive Diameter protocol training and resources at [Learn Diameter](https://diameter.learn-telecom.com/).
+
+Key topics:
+- Diameter protocol fundamentals and RFCs
+- Diameter applications and AVPs (Attribute-Value Pairs)
+- Node types, transport, and peer relationships
+- Routing, forwarding, and interfaces (IMS, EPC, PCC, 3GPP)
+- Security considerations and proprietary AVP testing
+
+> This resource is highly recommended for telecommunications engineers and anyone seeking to master Diameter in 3GPP networks.
+
+Source: [Learn Diameter](https://diameter.learn-telecom.com/)
+
+## 💳 SIM Card Technology & Security
+
+Explore in-depth SIM card technology, internals, and security at [Learn SIM Cards](https://sim-cards.learn-telecom.com/).
+
+Key topics:
+- SIM card technology and architecture
+- SIM card internals and types
+- Algorithms and authentication keys (Ki, PIN2, PUK2)
+- GSM identifiers (ICCID, IMSI, etc.)
+- SIM card security and attack techniques
+- SIM card software and tools
+
+> This resource is ideal for anyone interested in the technical and security aspects of SIM cards in mobile networks.
+
+Source: [Learn SIM Cards](https://sim-cards.learn-telecom.com/)
