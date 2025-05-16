@@ -192,3 +192,7 @@ Baseband processors handle all radio communications in mobile devices, operating
 - [Baseband Security Mailing List](https://lists.osmocom.org/mailman/listinfo/baseband-devel)
 - [Cellular Security Wiki](https://cellularsecurity.io)
 - [TelcoSec Baseband Research Forum](https://forum.telco-sec.com/baseband)
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.

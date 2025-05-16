@@ -119,3 +119,7 @@ New tools should:
 ### Testing Requirements
 
 All tool
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.

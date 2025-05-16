@@ -192,3 +192,7 @@ This section focuses on the security aspects of SIM cards and eSIM technology, w
 - [eSIM Working Group](https://www.gsma.com/esim/workgroup/)
 - [TelcoSec SIM Research Forum](https://forum.telco-sec.com/sim)
 - [Osmocom SIM Project](https://osmocom.org/projects/sim)
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.

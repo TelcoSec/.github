@@ -127,4 +127,8 @@ Each research document follows semantic versioning:
 ## Contact
 For research-related inquiries:
 - Email: research@telco-sec.com
-- Discord: [Join Community](https://discord.gg/jkUKw2cBxX) 
+- Discord: [Join Community](https://discord.gg/jkUKw2cBxX)
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. 

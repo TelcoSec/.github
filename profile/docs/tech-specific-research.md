@@ -372,3 +372,7 @@ Please refer to our [Contributing Guide](../contributing.md) for information on:
 - Submitting research findings
 - Documentation standards
 - Code of conduct
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.

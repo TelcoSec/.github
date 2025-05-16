@@ -279,3 +279,7 @@ We welcome contributions to this research. Please see our [contribution guidelin
 ## License
 
 This research documentation is licensed under [Apache License 2.0](../LICENSE).
+
+---
+**Trademarks:**  
+All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this documentation are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.
