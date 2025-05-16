@@ -6,6 +6,9 @@
 >
 > 🚀 Join our open research community and help secure the future of telecom!
 
+> **Project Maintainer:**
+> This project is currently maintained by **RFS**. We welcome passionate contributors—join us and become part of the TelcoSec team!
+
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
