@@ -266,3 +266,18 @@ Key topics:
 > This resource is ideal for anyone interested in the technical and security aspects of SIM cards in mobile networks.
 
 Source: [Learn SIM Cards](https://sim-cards.learn-telecom.com/)
+
+## 📝 TelcoSec Blog & Tutorials
+
+Stay up to date with the latest telecom security insights, tutorials, and news at the [TelcoSec Blog](https://blog.telco-sec.com/).
+
+Featured topics:
+- How to Install Kamailio and Open5GS
+- GSM Hacking Fundamentals
+- Demystifying Diameter Interfaces
+- How to Configure and Install OsmoBTS
+- GSM Security Standards
+
+> The TelcoSec Blog is your go-to resource for practical guides, security standards, and expert commentary on telecom infrastructure and protocols.
+
+Source: [TelcoSec Blog](https://blog.telco-sec.com/)
