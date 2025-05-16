@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./images/og-image.jpg" alt="TelcoSec Open Graph" width="600"/>
+</p>
+
+> **TelcoSec: Advancing Global Telecommunications Security Together**
+>
+> 🚀 Join our open research community and help secure the future of telecom!
+
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
@@ -178,6 +186,19 @@ For responsible disclosure of telecom system vulnerabilities, please follow our 
     <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" height="30"/>
   </a>
 </div>
+
+## 📢 Share This Project
+
+[![Share on X (Twitter)](https://img.shields.io/badge/Tweet-Share%20on%20X-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20TelcoSec%20for%20open%20telecom%20security%20research!%20https%3A%2F%2Fgithub.com%2FTelcoSec)
+[![Share on LinkedIn](https://img.shields.io/badge/Share%20on-LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FTelcoSec)
+[![Share on Facebook](https://img.shields.io/badge/Share-Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTelcoSec)
+
+> **Suggested LinkedIn Post:**  
+> 🚀 Excited to support open telecom security research with @TelcoSec! Explore 5G, SS7, SIM/eSIM, RAN, and more. Join the community: https://github.com/TelcoSec
+
+<!-- Open Graph image for social media sharing -->
+<!-- LinkedIn and other platforms will use this image for link previews -->
+<!-- <meta property="og:image" content="https://raw.githubusercontent.com/TelcoSec/repo/main/profile/images/og-image.jpg" /> -->
 
 ## 📜 License
 
