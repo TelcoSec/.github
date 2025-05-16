@@ -51,6 +51,40 @@
   - Firmware security
   - Radio security
 
+## Projects
+
+### Featured Projects
+
+- **5G Security Architecture Analysis**
+  - In-depth analysis of 5G core and RAN security features, vulnerabilities, and mitigations.
+  - **Status:** Ongoing
+  - [Read more](tech-specific-research.md#5g-security-features)
+
+- **Signaling Cross-Protocol Attacks**
+  - Research on cross-protocol attacks involving SS7, Diameter, and SIP signaling.
+  - **Status:** Ongoing
+  - [Read more](core-network-research.md#signaling-security)
+
+- **Legacy 2G Persistence Risks**
+  - Assessment of security risks in legacy 2G networks and their impact on modern telecom environments.
+  - **Status:** Published
+  - [Read more](tech-specific-research.md#legacy-network-security)
+
+- **IoT Telecom Protocol Misuse**
+  - Investigation of IoT device vulnerabilities and protocol misuse in telecom networks.
+  - **Status:** In Progress
+  - [Read more](tech-specific-research.md#iot-connectivity-security)
+
+- **Private Radio Interface Security**
+  - Security research on private LTE/5G and radio interface deployments.
+  - **Status:** Planned
+  - [Read more](ran-research.md#private-network-security)
+
+- **SIM/eSIM Security Research**
+  - Technical research on SIM and eSIM vulnerabilities, provisioning, and authentication.
+  - **Status:** Published
+  - [Read more](sim-esim-research.md)
+
 ## Getting Started
 - [Contributing Guidelines](contributing.md)
   - How to contribute
