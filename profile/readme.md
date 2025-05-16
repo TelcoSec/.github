@@ -61,6 +61,36 @@ Our mission is to enhance the security landscape of telecommunications through:
   </tr>
 </table>
 
+## 🚀 Projects
+
+TelcoSec leads and documents a range of research and development projects in telecommunications security. Explore some of our featured projects below, or see the full list in the [projects directory](projects/README.md):
+
+- **[5G Security Architecture Analysis](projects/5g-security-architecture-analysis.md)**  
+  In-depth analysis of 5G core and RAN security features, vulnerabilities, and mitigations.  
+  _Status: Ongoing_
+
+- **[Signaling Cross-Protocol Attacks](projects/signaling-cross-protocol-attacks.md)**  
+  Research on cross-protocol attacks involving SS7, Diameter, and SIP signaling.  
+  _Status: Ongoing_
+
+- **[Legacy 2G Persistence Risks](projects/legacy-2g-persistence-risks.md)**  
+  Assessment of security risks in legacy 2G networks and their impact on modern telecom environments.  
+  _Status: Published_
+
+- **[IoT Telecom Protocol Misuse](projects/iot-telecom-protocol-misuse.md)**  
+  Investigation of IoT device vulnerabilities and protocol misuse in telecom networks.  
+  _Status: In Progress_
+
+- **[Private Radio Interface Security](projects/private-radio-interface-security.md)**  
+  Security research on private LTE/5G and radio interface deployments.  
+  _Status: Planned_
+
+- **[SIM/eSIM Security Research](projects/sim-esim-security-research.md)**  
+  Technical research on SIM and eSIM vulnerabilities, provisioning, and authentication.  
+  _Status: Published_
+
+For more projects and details, visit the [projects directory](projects/README.md).
+
 ## 📚 Documentation & Resources
 
 <div align="center">
