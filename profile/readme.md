@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="./images/og-image.jpg" alt="TelcoSec Open Graph" width="600"/>
+  <img src="./images/og-image.jpg" alt="TelcoSec - Global Telecommunications Security Research Initiative Social Preview" width="600"/>
 </p>
+
+<!-- 
+  SEO & Social Meta Tags
+  Keywords: 5G Security, SS7/Diameter Research, Telecom Hacking, O-RAN Security, Lawful Interception, 3GPP Standards, Mobile Network Security
+-->
 
 > **TelcoSec: Advancing Global Telecommunications Security Together**
 >
@@ -12,7 +17,7 @@
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
-  <img src="./images/telcosec.jpg" alt="TelcoSec Cover" width="800"/>
+  <img src="./images/telcosec.jpg" alt="TelcoSec Initiatives: Advancing 5G, 4G, and Legacy Network Security" width="800"/>
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
@@ -29,7 +34,7 @@
 TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2020, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
 
 <div align="center">
-  <img src="./images/methodology.png" alt="Research Methodology" width="600"/>
+  <img src="./images/methodology.png" alt="TelcoSec Research Methodology: From Signaling Exploits to Protocol Fuzzing" width="600"/>
 </div>
 
 ## 🎯 Mission & Vision
@@ -43,7 +48,7 @@ Our mission is to enhance the security landscape of telecommunications through:
 - Standardization of security testing methodologies
 
 <div align="center">
-  <img src="./images/RFSSecurity.png" alt="Security Framework" width="600"/>
+  <img src="./images/RFSSecurity.png" alt="Telecom Security Framework: 3GPP TS 33.501, 5G-AKA, and EAP-AKA' Architecture" width="600"/>
 </div>
 
 ## 🔬 Research Areas
@@ -56,7 +61,7 @@ Our mission is to enhance the security landscape of telecommunications through:
 - **Emerging Technologies**: 5G security architecture and beyond
 
 <div align="center">
-  <img src="./images/rfs-lab.jpg" alt="Research Lab" width="600"/>
+  <img src="./images/rfs-lab.jpg" alt="TelcoSec Research Lab: srsRAN, Open5GS, and vRAN Security Testing Environment" width="600"/>
 </div>
 
 ### Current Research Initiatives
@@ -107,7 +112,7 @@ For more projects and details, visit the [projects directory](projects/README.md
 ## 📚 Documentation & Resources
 
 <div align="center">
-  <img src="./images/CAMEL.jpg" alt="Technical Documentation" width="600"/>
+  <img src="./images/CAMEL.jpg" alt="Technical Documentation: SS7, Diameter, and SIP Signaling Security Standards" width="600"/>
 </div>
 
 ### Official Platforms
@@ -129,7 +134,7 @@ For more projects and details, visit the [projects directory](projects/README.md
 - [PLMN Integration Research](docs/plmn-integration-research.md)
 
 <div align="center">
-  <img src="./images/imsi.jpg" alt="Security Research" width="600"/>
+  <img src="./images/imsi.jpg" alt="IMSI Catching Mitigation and Mobile Identity Security Research" width="600"/>
 </div>
 
 ### Community Resources
@@ -146,7 +151,7 @@ We welcome contributions from the security and telecommunications community. Ple
 For responsible disclosure of telecom system vulnerabilities, please follow our [security policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
 
 <div align="center">
-  <img src="./images/RFS_wall.jpg" alt="Community Engagement" width="600"/>
+  <img src="./images/RFS_wall.jpg" alt="TelcoSec Community Engagement: Collaborating with Telecom Experts and Security Professionals" width="600"/>
 </div>
 
 ## 📬 Connect With Us
