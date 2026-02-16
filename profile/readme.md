@@ -16,10 +16,12 @@
   
   ### **Advancing Telecommunications Security Research Since 2020**
   
-  [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://telco-sec.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-TelcoSec-171515?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/jkUKw2cBxX)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/showcase/telcosec)
+  [![Website](https://img.shields.io/badge/Website-telco--sec.com-0050FF?style=for-the-badge&logo=globe)](https://telco-sec.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-TelcoSec-0A192F?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/RykzXTQFXF)
+  [![YouTube](https://img.shields.io/badge/YouTube-Telecom%20Security-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Telecom-Security)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/telco-sec)
+  [![Patreon](https://img.shields.io/badge/Patreon-Support%20Research-FFB800?style=for-the-badge&logo=patreon)](https://www.patreon.com/cw/rfs85)
 </div>
 
 ## 📋 Overview
@@ -111,9 +113,11 @@ For more projects and details, visit the [projects directory](projects/README.md
 ### Official Platforms
 - [TelcoSec Knowledge Center](https://www.telco-sec.com/) - Comprehensive telecommunications security resources and learning paths
 - [3GPP Explainer](https://3gpp.telco-sec.com/) - Detailed guide to 3GPP standards and mobile network technologies
-- [SIM/eSIM Guide](https://sim-cards.telco-sec.com/) - Technical details of SIM cards, eSIMs, and mobile connectivity
-- [Security Documentation](https://docs.telco-sec.com/) - Comprehensive security guidelines and best practices
-- [TelcoSec Chat](https://chat.telco-sec.com/) - Interactive assistance for telecom security queries
+- [TelcoSec Library](https://library.telco-sec.com/) - Curated research papers, standards, and technical whitepapers
+- [TelcoSec Tools](https://tools.telco-sec.com/) - Open-source security testing and analysis tools for telecom
+- [TelcoSec Labs](https://labs.telco-sec.com/) - Interactive and guided pentesting environments
+- [Portable BTS Project](https://portable-bts.telco-sec.com/) - Research and documentation on portable base station security
+- [TelcoSec Blog](https://blog.telco-sec.com/) - Technical tutorials, news, and expert commentary
 
 ### Research Documentation
 - [SIM/eSIM Security Research](docs/sim-esim-research.md)
@@ -174,19 +178,22 @@ For responsible disclosure of telecom system vulnerabilities, please follow our 
 ### Social Media & Community
 <div align="center">
   <a href="https://telco-sec.com">
-    <img src="https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=firefox" height="30"/>
+    <img src="https://img.shields.io/badge/Website-telco--sec.com-0050FF?style=for-the-badge&logo=firefox" height="30"/>
   </a>
   <a href="https://github.com/TelcoSec">
-    <img src="https://img.shields.io/badge/GitHub-TelcoSec-171515?style=for-the-badge&logo=github" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-TelcoSec-0A192F?style=for-the-badge&logo=github" height="30"/>
   </a>
-  <a href="https://twitter.com/TelcoSec">
-    <img src="https://img.shields.io/badge/Twitter-%40TelcoSec-1DA1F2?style=for-the-badge&logo=twitter" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/showcase/telcosec">
+  <a href="https://www.linkedin.com/company/telco-sec">
     <img src="https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin" height="30"/>
   </a>
-  <a href="https://discord.gg/jkUKw2cBxX">
+  <a href="https://www.youtube.com/@Telecom-Security">
+    <img src="https://img.shields.io/badge/YouTube-Telecom%20Security-FF0000?style=for-the-badge&logo=youtube" height="30"/>
+  </a>
+  <a href="https://discord.gg/RykzXTQFXF">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord" height="30"/>
+  </a>
+  <a href="https://www.patreon.com/cw/rfs85">
+    <img src="https://img.shields.io/badge/Patreon-Support-FFB800?style=for-the-badge&logo=patreon" height="30"/>
   </a>
 </div>
 
@@ -211,13 +218,17 @@ This project is licensed under the [Apache License 2.0](LICENSE) unless otherwis
 
 <div align="center">
   <img src="./images/og-image.jpg" alt="TelcoSec Footer" width="600"/>
-  <img src="https://img.shields.io/badge/Advancing%20Telecom%20Security%20Since%201995-darkblue?style=for-the-badge" height="30"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Advancing%20Telecom%20Security%20Since%201995-0A192F?style=for-the-badge" height="30"/>
+  <br/>
+  <sub>Primary Font: **Inter** | Technical Font: **JetBrains Mono**</sub>
 </div>
 
 ## Contact
 
 - Website: [telco-sec.com](https://telco-sec.com)
 - Email: [contact@telco-sec.com](mailto:contact@telco-sec.com)
+- LinkedIn (Owner): [Ruben Silva](https://www.linkedin.com/in/ruben-silva85/)
 
 ## 📡 GSM Security & Pentesting Labs
 
@@ -232,7 +243,7 @@ Key topics:
 
 > **Note:** This resource is for educational purposes only. Always follow legal and ethical guidelines.
 
-Join the [TelcoSec Ops Discord](https://discord.gg/jkUKw2cBxX) for community support and updates.
+Join the [TelcoSec Ops Discord](https://discord.gg/RykzXTQFXF) for community support and updates.
 
 Source: [TelcoSec GSM Hacking](https://gsm-hacking.telco-sec.com/)
 

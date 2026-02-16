@@ -39,7 +39,7 @@ Before contributing, ensure you have:
 
 ### 1. Select a Task
 
-- Check our [Issue Tracker](https://github.com/telco-sec/research/issues) for open tasks
+- Check our [Issue Tracker](https://github.com/TelcoSec/research/issues) for open tasks
 - Look for issues labeled "good first issue" if you're new
 - Join discussions in relevant issues to express interest
 - Create a new issue if you identify a gap not currently addressed

@@ -1,4 +1,9 @@
-# [Research Topic] Security Research
+# 🧪 [Research Topic] Security Research
+
+[![Website](https://img.shields.io/badge/Website-telco--sec.com-0050FF?style=for-the-badge&logo=globe)](https://telco-sec.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/RykzXTQFXF)
+
+---
 
 ## Document Information
 - **Version:** 1.0.0

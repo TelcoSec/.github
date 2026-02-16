@@ -1,4 +1,10 @@
-# TelcoSec Research Documentation Index
+# 🔐 TelcoSec Research Documentation Index
+
+[![Website](https://img.shields.io/badge/Website-telco--sec.com-0050FF?style=for-the-badge&logo=globe)](https://telco-sec.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/RykzXTQFXF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TelcoSec-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/telco-sec)
+
+---
 
 ## Core Research Areas
 
@@ -127,7 +133,7 @@ Each research document follows semantic versioning:
 ## Contact
 For research-related inquiries:
 - Email: research@telco-sec.com
-- Discord: [Join Community](https://discord.gg/jkUKw2cBxX)
+- Discord: [Join Community](https://discord.gg/RykzXTQFXF)
 
 ---
 **Trademarks:**  

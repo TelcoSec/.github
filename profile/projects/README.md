@@ -1,4 +1,9 @@
-# TelcoSec Projects
+# 🚀 TelcoSec Projects
+
+[![Website](https://img.shields.io/badge/Website-telco--sec.com-0050FF?style=for-the-badge&logo=globe)](https://telco-sec.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/RykzXTQFXF)
+
+---
 
 This directory contains detailed documentation for research and development projects within the TelcoSec initiative.
 
@@ -10,7 +15,7 @@ This directory contains detailed documentation for research and development proj
 ## Adding a New Project
 1. Create a new markdown file in this directory (e.g., `project-name.md`).
 2. Use the provided template below for consistency.
-3. Add your project to the main [Projects section](../docs/INDEX.md) if appropriate.
+3. Add your project to the main [Documentation Index](../docs/INDEX.md) if appropriate.
 4. Submit a pull request for review.
 
 ## Project Page Template
